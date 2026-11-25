@@ -1,0 +1,4 @@
+placement,asset,channel,market,live_from,live_until,state
+P1,D1,app,cn,2026-08-09,,live
+P2,D2,app,cn,2026-08-10,2026-08-29,stopped
+P3,D1,tv,cn,2026-08-09,,live

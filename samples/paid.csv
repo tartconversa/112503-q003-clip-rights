@@ -1,0 +1,4 @@
+payment,month,receipt,party,cents,rights_rev
+T1,2026-08,R1,StudioA,84000,r1
+T2,2026-08,R2,StudioB,81000,r1
+T3,2026-08,R3,StudioA,63000,r1

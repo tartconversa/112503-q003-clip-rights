@@ -1,0 +1,5 @@
+receipt,play_group,cents,date,refunds,market
+R1,V1,120000,2026-08-15,,cn
+R2,V2,270000,2026-08-28,,cn
+R3,V3,90000,2026-08-31,,cn
+R4,V2,-60000,2026-09-10,R2,cn

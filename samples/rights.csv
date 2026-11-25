@@ -1,0 +1,8 @@
+grant,case,market,channel,start,stop,segment_from,segment_to,parties,shares,rev
+G1,C1,cn,app,2026-08-01,2026-11-30,0,1800000,StudioA|StudioB,700|300,r1
+G1,C1,cn,app,2026-08-01,2026-08-17,0,1800000,StudioA|StudioB,700|300,r2
+G2,C2,cn,app,2026-08-01,2026-11-30,0,900000,StudioC,1000,r1
+G3,C3,cn,app,2026-08-01,2026-11-30,0,180000,MusicD,1000,r1
+G4,C1,cn,tv,2026-08-01,2026-11-30,0,1800000,StudioA|StudioB,700|300,r1
+G5,C3,cn,tv,2026-08-01,2026-11-30,0,180000,MusicD,1000,r1
+G6,C2,cn,tv,2026-08-01,2026-11-30,0,900000,StudioC,0,denied-r1

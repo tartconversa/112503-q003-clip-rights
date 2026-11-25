@@ -1,0 +1,6 @@
+parent,layer,source,source_from,source_to,target_from,target_to
+D1,picture,M1,100000,220000,0,120000
+D1,sound,A1,5000,125000,0,120000
+D2,picture,D1,40000,100000,0,60000
+D2,picture,M2,40000,60000,60000,80000
+D2,sound,A1,10000,90000,0,80000
